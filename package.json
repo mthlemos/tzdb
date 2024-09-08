@@ -18,11 +18,10 @@
   "license": "MIT",
   "author": "Vincent Voyer <vincent@codeagain.com>",
   "sideEffects": false,
-  "main": "dist/",
+  "main": "lib/",
   "module": "lib/",
-  "types": "dist/index.d.ts",
+  "types": "lib/index.d.ts",
   "files": [
-    "dist/",
     "lib/",
     "time-zones-names.json",
     "abbreviations.json",
