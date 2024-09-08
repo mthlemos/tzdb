@@ -3,6 +3,7 @@ type TimeZoneName = string;
 interface RawTimeZone {
   name: TimeZoneName;
   alternativeName: string;
+  alternativeNamePt: string;
   group: string[];
   continentCode: string;
   continentName: string;
